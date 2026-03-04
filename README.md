@@ -1,7 +1,4 @@
-# Hi, I'm Sultan 👋
+# Sultan
 
-🌱 Currently learning programming  
-
-💻 Interested in software development  
-
-🚀 Building projects and improving my skills
+Learning C# fundamentals.
+Uploading small practice programs as I learn.
