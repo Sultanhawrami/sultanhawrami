@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sultan
+# 👋 Hi, I'm Sultan 🐺
 
-Beginner Developer focused on C# and Python.
+Beginner Developer focused on C# and Python🐍.
 
 Interested in:
 • Artificial Intelligence
